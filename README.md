@@ -39,8 +39,8 @@ sudo bash xray-cf-setup.sh
 Cloudflare for SaaS 自定义主机名场景：
 
 ```text
-回源域名：cdn.wccvv.asia
-客户端连接域名：cdn.dfsvd.asia
+回源域名：origin.example.com
+客户端连接域名：edge.example.net
 ```
 
 ## Cloudflare 设置
